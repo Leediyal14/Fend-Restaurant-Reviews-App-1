@@ -1,7 +1,7 @@
 # Restaurant Reviews App Stage-1
 
 ## Project Aim
-Making the web application mobile ready, responsive on different screen sizes and accessable for those who use screen reader.Service worker will also be added for better offline user experience.
+Making the web application mobile ready, responsive on different screen sizes and accessable for those who use screen reader.Service worker is also be added for better offline user experience.
 
 
 ## Launching app locally
