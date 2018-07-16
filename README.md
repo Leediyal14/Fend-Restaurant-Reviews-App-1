@@ -12,6 +12,6 @@ Making the web application mobile ready, responsive on different screen sizes an
 5) With the server running visit `http://localhost:8777`
 5) Change the port from dbhelper.js if 8777 is already in use
 
-## Acknowledment
+## Acknowledgement
 1) [Starter code provided by udacity ](https://github.com/udacity/mws-restaurant-stage-1)
 
