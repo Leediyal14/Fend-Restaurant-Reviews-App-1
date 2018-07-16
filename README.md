@@ -5,7 +5,7 @@ Making the web application mobile ready, responsive on different screen sizes an
 
 
 ## Launching app locally
-1) Clone thw repo
+1) Clone the repo
 2) Via terminal,Go into the cloned folder
 3) If you have python 2.x run `python -m SimpleHTTPServer 8777`
 4) If you have python 3.x run `python3 -m http.server 8777`
